@@ -17,7 +17,9 @@ Esse projeto vem com algumas ferramentas que irão nos auxiliar para manter um c
 
 ## Installation
 
-Para começar a usar basta clonar ou baixar o arquivo zip desse repositporio e executar o comando yarn no seu terminal ou terminal integrado do VSCODE
+Para começar a usar basta clonar ou baixar o arquivo zip desse repositório e executar o comando yarn no seu terminal ou terminal integrado do VSCODE
+
+Lembre de após que clonar para uso de mudar o repositório git e os nomes de seu projeto no package.json
 
 ## Contributing
 
